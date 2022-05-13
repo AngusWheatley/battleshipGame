@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mamboNumberGenerator", "mamboNumberGenerator\mamboNumberGenerator.csproj", "{76B7E88E-7B6C-4C03-82BB-01E15CC3DFDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76B7E88E-7B6C-4C03-82BB-01E15CC3DFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B7E88E-7B6C-4C03-82BB-01E15CC3DFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B7E88E-7B6C-4C03-82BB-01E15CC3DFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B7E88E-7B6C-4C03-82BB-01E15CC3DFDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {621BA4E2-3E77-4817-8E29-9107E63F533D}
+	EndGlobalSection
+EndGlobal
